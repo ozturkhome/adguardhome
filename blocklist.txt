@@ -1,0 +1,4 @@
+||akittv.com.tr^$important
+||ahaber.com.tr^$important
+||yeniakit.com.tr^$important
+||istanbulbilisim.com^$important
